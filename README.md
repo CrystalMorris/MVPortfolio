@@ -2,9 +2,7 @@
 Portfolio of accomplishments achieved while an apprentice through Multiverse
 
 
-#Airport https://github.com/CrystalMorris/MV-airport
 
-#Sauciness https://github.com/CrystalMorris/StorageLocker
 
 #DurianToys
 Git:  https://github.com/CrystalMorris/DurianToys
