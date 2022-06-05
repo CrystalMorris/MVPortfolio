@@ -53,6 +53,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus varius porttito
 ## Demo
 
 [Deployed on Heroku](https://emp-mgt-app.herokuapp.com)
+![Heroku FE Deployment][FEHero]
+[FEHero]: https://github.com/CrystalMorris/MVPortfolio/blob/main/personal-projects/HerokuEmpFE-deployed.png "Screenshot of App UI Heroku Deployment"
 ### Front End UI 
 + Deployed: https://emp-mgt-app.herokuapp.com 
 + Git: https://github.com/CrystalMorris/EmployeeDirectoryFE
@@ -63,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus varius porttito
 
 ![Heroku Deployment][BEHero]
 
-[BEHero]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot showing Heroku Deployment"
+[BEHero]: https://github.com/CrystalMorris/MVPortfolio/blob/main/personal-projects/HerokuEmpBE-deployed.png "Screenshot of API Heroku Deployment"
 
 ---
 
