@@ -37,9 +37,8 @@ ex:
 - [Introduction](#introduction)
 - [Demo](#demo)
 - [Technologies](#technologies)
-- [Setup](#setup)
 - [Features](#features)
-- [Contact](#contact)
+
 
 ---
 
@@ -53,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus varius porttito
 
 ## Demo
 
-![Add your Demo](readme_assets/screen.gif) 
+[Deployed on Heroku](https://emp-mgt-app.herokuapp.com)
 ### Front End UI 
 + Deployed: https://emp-mgt-app.herokuapp.com 
 + Git: https://github.com/CrystalMorris/EmployeeDirectoryFE
@@ -61,6 +60,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus varius porttito
 ### Back end API  
 + Hosted on Heroku using ClearDB 
 + Git: https://github.com/CrystalMorris/EmployeeDirectoryBE 
+
+![Heroku Deployment][BEHero]
+
+[BEHero]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot showing Heroku Deployment"
 
 ---
 
