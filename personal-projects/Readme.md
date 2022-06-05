@@ -52,22 +52,37 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus varius porttito
 
 ## Demo
 
-[Deployed on Heroku](https://emp-mgt-app.herokuapp.com)
+### Deployed: https://emp-mgt-app.herokuapp.com 
+
+
+
+
+### Front End UI 
++ [Deployed on Heroku](https://emp-mgt-app.herokuapp.com)
+
 ![Heroku FE Deployment][FEHero]
 
 [FEHero]: https://github.com/CrystalMorris/MVPortfolio/blob/main/personal-projects/HerokuEmpFE-deployed.png "Screenshot of App UI Heroku Deployment"
-### Front End UI 
-+ Deployed: https://emp-mgt-app.herokuapp.com 
+
+![Heroku FE 2 Deployment][FEHero2]
+
+[FEHero2]: https://github.com/CrystalMorris/MVPortfolio/blob/main/personal-projects/HerokuEmpFE-pg2-deployed.png "Screenshot of App UI Heroku Deployment"
+
+![Heroku FE 3 Deployment][FEHero3]
+
+[FEHero3]: https://github.com/CrystalMorris/MVPortfolio/blob/main/personal-projects/HerokuEmpFE-pg3-deployed.png "Screenshot of App UI Heroku Deployment"
+
+
 + Git: https://github.com/CrystalMorris/EmployeeDirectoryFE
 
 ### Back end API  
 + Hosted on Heroku using ClearDB 
-+ Git: https://github.com/CrystalMorris/EmployeeDirectoryBE 
+
 
 ![Heroku Deployment][BEHero]
 
 [BEHero]: https://github.com/CrystalMorris/MVPortfolio/blob/main/personal-projects/HerokuEmpBE-deployed.png "Screenshot of API Heroku Deployment"
-
++ Git: https://github.com/CrystalMorris/EmployeeDirectoryBE 
 ---
 
 ## Technologies
