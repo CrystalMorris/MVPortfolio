@@ -4,8 +4,8 @@ Portfolio of accomplishments achieved while an apprentice through Multiverse
 ---
 
 + [Module Project]()
-+ [Personal Projects]()
-+ [Work Project]()
++ [Personal Projects](https://github.com/CrystalMorris/MVPortfolio/tree/main/personal-projects)
++ [Work Project](https://github.com/CrystalMorris/MVPortfolio/tree/main/misc)
 
 ---
 
