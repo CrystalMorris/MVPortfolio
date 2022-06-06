@@ -8,15 +8,12 @@ React UI and Java/MySQL backend API deployed separately on Heroku
 
 ## Competencies
 
-Add the job codes and outcome 
-ex: 
-
 ### JF 1.1
-- Knows all stages of the software development life cycle (what each stage contains, including the inputs and outputs
++ Knows all stages of the software development life cycle (what each stage contains, including the inputs and outputs
 ### JF 1.6
-- Shows curiosity to the business context in which the solution will be used, displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities, and techniques; the tenacity to improve methods and maximise performance of the solution; and creativity in their approach to solutions.
++ Shows curiosity to the business context in which the solution will be used, displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities, and techniques; the tenacity to improve methods and maximise performance of the solution; and creativity in their approach to solutions.
 ### JF 1.7
-- Demonstrates creativity and tenacity in their approach to solutions and the methods used to come to a solution for example, sees the task through to the end by devising new solutions and despite obstacles and problems along the way.
++ Demonstrates creativity and tenacity in their approach to solutions and the methods used to come to a solution for example, sees the task through to the end by devising new solutions and despite obstacles and problems along the way.
 ### JF 3.1	
 + Knows how to design software approaches and patterns, to identify reusable solutions to commonly occurring problems
 ### JF 3.2	
@@ -29,8 +26,22 @@ ex:
 + Understands how to follow software designs and functional/technical specifications
 ### JF 3.6	
 + Maintains a productive, professional and secure working environment
-### JF 3.7  
-+ Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security.
+### JF 4.1	
++ Knows the principles of algorithms, logic and data structures relevant to software development (e.g., Arrays, Stacks, Queues, Linked Lists, Trees, Graphs, Hash Tables, Sorting Algorithms, Searching Algorithms, Critical sections and race conditions)
+### JF 4.2	
++ Knows the principles and uses of relational and non-relational databases
+### JF 4.3	
++ Understands and can link code to data sets
+### JF 4.4	
++ Understands how to create a logical and maintainable codebase
+### JF 4.5	
++ Is able to build, manage and deploy code into the relevant environment
+### JF 4.6	
++ Understands how to apply an appropriate software development approach according to the relevant paradigm (for example object oriented, event driven or procedural)
+### JF 4.7	
++ Understands how to apply algorithms, logic and data structures
+### JF 4.8	
++ Is able to interpret and implement a given design whilst remaining compliant with security and maintainability requirements
 
 ## Table of contents
 
@@ -44,18 +55,16 @@ ex:
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus varius porttitor quam. Quisque efficitur bibendum lectus, id luctus mi imperdiet vitae. Proin consequat volutpat mauris, a eleifend ligula convallis vel. Morbi sit amet rhoncus erat. Pellentesque volutpat, ligula ut iaculis finibus, mauris metus molestie leo, in luctus erat erat vitae erat. Phasellus enim risus, faucibus eget porta eget, euismod in nunc. Praesent maximus, leo ac ornare pellentesque, purus diam dignissim arcu, facilisis pretium nisi mauris sit amet lectus. Nullam auctor neque purus, vitae elementum enim fringilla aliquam.
+This is my first attempt at creating web applications using microservices. I created two separate projects that would interact with each other via HTTP calls. 
 
+The first project is a Java/Springboot RESTful API that originated with a MySQL database. However for deployment purposes the database as migrated to ClearDB.  
 
-
+The second project is a React UI with is deployed separately and calls on the first project for data population. I intitially started out using a tutorial online. However that ended when the code being presented wasn't working due to being outdated. I quickly found myself writing code from scratch after using constant research and discovery via Google and React documentation. I hope to create alternate Web apps with different themes that all access the same RESTful API in the future.
 ---
 
 ## Demo
 
 ### Deployed: https://emp-mgt-app.herokuapp.com 
-
-
-
 
 ### Front End UI 
 + [Deployed on Heroku](https://emp-mgt-app.herokuapp.com)
