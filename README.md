@@ -22,7 +22,5 @@ Portfolio of accomplishments achieved while an apprentice through Multiverse
 
 
 
-#DurianToys
-Git:  https://github.com/CrystalMorris/DurianToys
-Deployed:  https://durian-toys.herokuapp.com/warehouses
+
 
