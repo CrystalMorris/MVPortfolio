@@ -94,6 +94,14 @@ This is a web application which displays the stock of a fictional Toy Retailer w
 
 [DurianToys](https://durian-toys.herokuapp.com/warehouses)
 
+![Agile Practices][agile]
+
+[agile]: 
+
+![HomePage][homepage]
+
+[homepage]: 
+
 
 
 ---
