@@ -1,7 +1,7 @@
 # MVPortfolio
 Portfolio of accomplishments achieved while an apprentice through Multiverse
 
-# [Module Projects]()
+# [Module Project]()
 # [Personal Projects]()
 # [Work Project]()
 # Reflections
