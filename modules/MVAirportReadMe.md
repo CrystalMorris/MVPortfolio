@@ -40,6 +40,18 @@ This project was given in our first few weeks of Multiverse Bootcamp. It introdu
 
 [visit MV-Airport Repository](https://github.com/CrystalMorris/MV-airport)
 
++ Jest Testing
+
+![Jest Test][Jest]
+
+[Jest]:https://github.com/CrystalMorris/MVPortfolio/blob/main/modules/testing.png "Jest Testing"
+
++ Testing with coverage
+
+![coverage][coverage]
+
+[coverage]: https://github.com/CrystalMorris/MVPortfolio/blob/main/modules/Coverage.png "Testing with coverage results"
+
 ---
 
 ## Technologies
