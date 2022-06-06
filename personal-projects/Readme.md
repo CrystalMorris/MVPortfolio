@@ -53,13 +53,14 @@ React UI and Java/MySQL backend API deployed separately on Heroku
 
 ---
 
-## Introduction
+## Introduction  
 
-This is my first attempt at creating web applications using microservices. I created two separate projects that would interact with each other via HTTP calls. 
+   This is my first attempt at creating web applications using microservices. I created two separate projects that would interact with each other via HTTP calls.
 
-The first project is a Java/Springboot RESTful API that originated with a MySQL database. However for deployment purposes the database as migrated to ClearDB.  
+   The first project is a Java/Springboot RESTful API that originated with a MySQL database. However for deployment purposes the database as migrated to ClearDB.
 
-The second project is a React UI with is deployed separately and calls on the first project for data population. I intitially started out using a tutorial online. However that ended when the code being presented wasn't working due to being outdated. I quickly found myself writing code from scratch after using constant research and discovery via Google and React documentation. I hope to create alternate Web apps with different themes that all access the same RESTful API in the future.
+   The second project is a React UI with is deployed separately and calls on the first project for data population. I intitially started out using a tutorial online. However that ended when the code being presented wasn't working due to being outdated. I quickly found myself writing code from scratch after using constant research and discovery via Google and React documentation. I hope to create alternate Web apps with different themes that all access the same RESTful API in the future.
+
 ---
 
 ## Demo
