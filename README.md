@@ -4,6 +4,9 @@ Portfolio of accomplishments achieved while an apprentice through Multiverse
 # [Module Project]()
 # [Personal Projects]()
 # [Work Project]()
+
+---
+
 # Reflections
 
 
