@@ -3,7 +3,7 @@ Portfolio of accomplishments achieved while an apprentice through Multiverse
 
 ---
 
-+ [Module Project]()
++ [Module Project](https://github.com/CrystalMorris/MVPortfolio/tree/main/modules)
 + [Personal Projects](https://github.com/CrystalMorris/MVPortfolio/tree/main/personal-projects)
 + [Work Project](https://github.com/CrystalMorris/MVPortfolio/tree/main/misc)
 
