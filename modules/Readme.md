@@ -92,15 +92,17 @@ This is a web application which displays the stock of a fictional Toy Retailer w
 
 ## Demo
 
-[DurianToys](https://durian-toys.herokuapp.com/warehouses)
+[Visit DurianToys](https://durian-toys.herokuapp.com/warehouses)
 
++ Agile Practices
 ![Agile Practices][agile]
 
-[agile]: 
+[agile]: https://github.com/CrystalMorris/MVPortfolio/blob/main/modules/durianAgile.png "Agile Practices"
 
++ Durian Homepage
 ![HomePage][homepage]
 
-[homepage]: 
+[homepage]: https://github.com/CrystalMorris/MVPortfolio/blob/main/modules/DurianHome.png "Durian Toys Homepage"
 
 
 
