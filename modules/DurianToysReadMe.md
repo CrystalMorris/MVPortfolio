@@ -1,5 +1,4 @@
 
-#DurianToys Git: https://github.com/CrystalMorris/DurianToys Deployed: https://durian-toys.herokuapp.com/warehouses
 
 # Durian Toys
 
